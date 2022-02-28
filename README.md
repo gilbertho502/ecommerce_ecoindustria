@@ -18,4 +18,8 @@ Desarrollo de un Ecommerce
 
 * [Python]
 * [Postgress]
-* [Fask]
+* [Flask]
+
+Ejemplo de funcionamiento: 
+
+https://gilbertho502.github.io/eco-industria/#/ 
