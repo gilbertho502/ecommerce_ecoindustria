@@ -1,6 +1,6 @@
 import STORAGE from "../utils/storage.js";
-const URL = "https://api-eco-industria.herokuapp.com/";
-// const URL = "https://silabuz-api-project.herokuapp.com";
+const URL = "API_ECO";
+// const URL = "SILABUZ";
 const generateHeaders = ()=>{
   return {
     "Content-Type": "application/json",
